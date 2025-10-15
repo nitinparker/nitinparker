@@ -16,7 +16,6 @@
 
 - ✨ Student at Parul University :)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
-- 💁‍♂️ Core Cyber Security Speaker at **Parul University's Cyber Club**.
 - ❤ Contributing to Open Source.
 - 💻 Visit my [Portfolio]() for more details about me.
 <!--End Intro-->
