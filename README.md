@@ -14,10 +14,11 @@
 <!--Start Intro-->               
 <p align="left">As a seasoned Cybersecurity Professional, Core Python Payload Developer, and a part time Web Developer, I bring a comprehensive skill set that bridges security, programming, and web development. With a deep understanding of cybersecurity principles, I focus on safeguarding digital assets through proactive threat detection, vulnerability assessment, and implementing robust security measures. </p>
 
-- ✨ Student at Parul University :)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - ❤ Contributing to Open Source.
 - 💻 Visit my [Portfolio]() for more details about me.
+- Coding for the Nation at Sansy Technology Pvt.Ltd.
+- Security Researcher 
 <!--End Intro-->
 
 
